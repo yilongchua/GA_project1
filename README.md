@@ -2,8 +2,11 @@
 This project is about SAT and ACT.
 
 Problem statment: as follows
+
 im task to identify states for SAT team to spent money to target to increase participation rates
 rational how and why.
+
+my audience: Nervada, Florida education state members **
 
 assumptions**
 1. Ranking is based on highest score of the Majority participation of either SAT or ACT
