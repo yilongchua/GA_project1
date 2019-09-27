@@ -13,4 +13,12 @@ Targeted states:
 Nervada, Florida
 
 how:
-convince these states using the colorado example through comparison of ranking
+convince these states using the "colorado" example through comparison of ranking
+fee waiver
+induce college culture
+after hours Pre Work
+
+reference
+https://www.hanoverresearch.com/media/Best-Practices-to-Increase-SAT-Participation-1.pdf
+http://salcorpenterprise.com/sat-and-act-participation-by-state/
+https://research.collegeboard.org/programs/sat/data
