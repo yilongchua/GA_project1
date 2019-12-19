@@ -1,4 +1,4 @@
-# GA_project1
+# SAT ACT ANALYSIS
 This project is about SAT and ACT.
 
 Problem statment: as follows
